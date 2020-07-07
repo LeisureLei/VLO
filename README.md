@@ -7,7 +7,7 @@ cd VLO/
 catkin_make -j8  
 source devel/setup.sh  
 # Run
-roslaunch vlo vlo.launch
+roslaunch vlo vlo.launch  
 rosbag play 0095.bag  
 
 # KITTI Raw Data 0095 Baidu Yun download link
