@@ -1,4 +1,5 @@
-A feature extraction method based on point cloud cvrvature
+A feature extraction method based on point cloud cvrvature  
+![cvrvature point](https://github.com/LeisureLei/VLO/blob/master/cvrvature%20point.png)
 # BUILD ENVIRONMENT
 Ubuntu 16.04 + PCL 1.7 + OpenCV 3.3.1 + Eigen 3.2.5 + ROS Kinetic
 # BUILD
