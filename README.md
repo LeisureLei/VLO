@@ -10,4 +10,6 @@ source devel/setup.sh
 roslaunch vlo vlo.launch
 rosbag play 0095.bag  
 
-# KITTI Raw Data 0095 download link
+# KITTI Raw Data 0095 Baidu Yun download link
+https://pan.baidu.com/s/1yHvsHfk61irttAexl8R-qw  
+tr2f
